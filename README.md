@@ -8,6 +8,8 @@
 
 ⟹ 🤖 I like to occupy my free time reading about physics (Nuclear, Atomic and Astrophysics), biology, robotics, IoT and AI.
 
+⟹ 👯 I’m looking to collaborate on **React / NextJs** projects
+
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
