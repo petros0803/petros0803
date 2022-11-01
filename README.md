@@ -14,11 +14,7 @@
 ### Feel free to connect with me on LinkedIn 😀
 [<img align="left" alt="Bogdan Petrosceac | LinkedIn" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-<div align="center">
-
-
-
-
+<div align="center" style="margin-top: 2rem">
 
 ### Now i'm working with:
 
