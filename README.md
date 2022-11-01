@@ -12,7 +12,7 @@
 
 
 ### Feel free to connect with me 😀
-[<img align="left" alt="Bogdan Petrosceac | LinkedIn" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Bogdan Petrosceac | LinkedIn" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
