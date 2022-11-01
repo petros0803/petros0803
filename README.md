@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### Now i'm working with:
+### Currently i'm working with:
 
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">][linkedin]
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">][linkedin]
@@ -49,9 +49,11 @@
 
 ### Have knowledge of:
 
-[<img width="48" height="48" src="HERE">][linkedin]
-[<img width="48" height="48" src="HERE">][linkedin]
-[<img width="48" height="48" src="HERE">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg">][linkedin]
 
 </div>
 
