@@ -1,6 +1,6 @@
 # Hello There, I'm Bogdan Petrosceac 👋
 ### Let me introduce myself
-🛠 I'm currently working at [ASSIST Software][assist_software] as a *Frontend web developer*. 
+⟹ 🛠 I'm currently working at [ASSIST Software][assist_software] as a *Frontend web developer*. 
 
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
