@@ -2,7 +2,7 @@
 ### Let me introduce myself
 ⟹ 🛠 I'm currently working at [ASSIST Software][assist_software] as a *Frontend web developer*.
 
-⟹ 🚀 I'm becoming better as days go by by accumulating new information in my field of activity.
+⟹ 🚀 I'm becoming better and better as days go by by accumulating new information in my field of activity.
 
 ⟹ 🗓 2023 Goals: Start contributing to Open Source Projects
 
