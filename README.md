@@ -11,7 +11,7 @@
 ⟹ 👯 I’m looking to collaborate on **React / NextJs** projects
 
 
-### Feel free to connect with me on LinkedIn 😀
+### Feel free to connect with me on LinkedIn 🌐
 [<img align="left" alt="Bogdan Petrosceac | LinkedIn" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
