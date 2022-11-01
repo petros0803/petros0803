@@ -40,6 +40,7 @@
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/yarn/yarn-original.svg">][linkedin]
 [<img width="48" height="48" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bitbucket.svg">][linkedin]
 [<img width="48" height="48" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">][linkedin]
+[<img width="48" height="48" src="https://www.google.com/search?q=primereact+svg&tbm=isch&ved=2ahUKEwiWncHD3I37AhXIkKQKHYeCBG0Q2-cCegQIABAA&oq=primereact+svg&gs_lcp=CgNpbWcQAzoHCAAQgAQQGDoHCAAQgAQQEzoICAAQBxAeEBM6BQgAEIAEOgYIABAHEB5Q0AhY8hVgoBZoAHAAeACAAbYBiAHwCZIBAzkuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=RXRhY9bmOcihkgWHhZLoBg&bih=937&biw=1920#imgrc=Das8fUJ2-Q2LrM">][linkedin]
 
 </div>
 
