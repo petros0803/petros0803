@@ -10,6 +10,10 @@
 
 ⟹ 👯 I’m looking to collaborate on **React / NextJs** projects
 
+
+### Feel free to connect with me 😀
+[<img align="left" alt="Bogdan Petrosceac | LinkedIn" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
+
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +27,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 [assist_software]: https://assist-software.net/
+[linkedin]: https://www.linkedin.com/in/bogdan-ciprian-petrosceac-ab6680206/
