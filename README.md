@@ -1,6 +1,6 @@
 <div>
     <div> 
-        <h1> Hello There 👋</h1>
+        <h1 style="text-decoration: none"> Hello There 👋</h1>
         <h2> I'm <b>Bogdan Petrosceac</b> a frontend developer.</h2>
     </div>
 </div>
