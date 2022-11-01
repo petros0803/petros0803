@@ -16,6 +16,7 @@
 
 <br />
 <br />
+<br />
 
 <div align="center">
 
@@ -30,7 +31,13 @@
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg">][linkedin]
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg">][linkedin]
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg">][linkedin]
-[<img width="48" height="48" src="./assets/images/gitlab.png">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg">][linkedin]
+[<img width="48" height="48" src="HERE">][linkedin]
+[<img width="48" height="48" src="HERE">][linkedin]
 
 </div>
 
