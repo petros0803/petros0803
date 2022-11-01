@@ -73,7 +73,7 @@
 
 <div align="center">
 
-## In the end I want to thank you for reading my profile. I'll let you go with a quote from Star Wars that I really enjoy
+## In the end I want to thank you for reading my profile 🤝. I'll let you go with a quote from Star Wars 🎬 that I really enjoy
 
 ***“Try not. Do or do not. There is no try.” — Yoda***
 
