@@ -57,6 +57,15 @@
 
 </div>
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=petros0803&theme=onedark&margin-w=5&margin-h=5&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img height='130px' src="https://github-readme-stats.vercel.app/api?username=petros0803&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,00a30b,00cc0e,73FA79&theme=graywhite" />
+<img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=petros0803&hide_title=true&layout=compact&bg_color=0,73FA79,00cc0e,00a30b&theme=graywhite" />
+
+</div>
+
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
