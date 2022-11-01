@@ -2,9 +2,11 @@
 ### Let me introduce myself
 ⟹ 🛠 I'm currently working at [ASSIST Software][assist_software] as a *Frontend web developer*.
 
-⟹ 🚀 I'm becoming better as days go by accumulating new information in my field of activity.
+⟹ 🚀 I'm becoming better as days go by by accumulating new information in my field of activity.
 
-⟹ 🗓 2023
+⟹ 🗓 2023 Goals: Start contributing to Open Source Projects
+
+⟹ 🤖 I like to occupy my free time reading about physics (Nuclear, Atomic and Astrophysics), biology, robotics, IoT and AI.
 
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
