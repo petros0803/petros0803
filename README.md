@@ -11,8 +11,25 @@
 ⟹ 👯 I’m looking to collaborate on **React / NextJs** projects
 
 
-### Feel free to connect with me 😀
+### Feel free to connect with me on LinkedIn 😀
 [<img align="left" alt="Bogdan Petrosceac | LinkedIn" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+<div align="center">
+
+### Now i'm working with:
+
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg">][linkedin]
+[<img width="48" height="48" src="./assets/images/gitlab.png">][linkedin]
+
+</div>
 
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
