@@ -1,5 +1,4 @@
-###Hello There 👋
-##I'm Bogdan Petrosceac a frontend developer.
+#Hello There 👋! I'm Bogdan Petrosceac a frontend developer.
 
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
