@@ -1,5 +1,5 @@
 # Hello There, I'm Bogdan Petrosceac 👋
-## Let me introduce myself
+### Let me introduce myself
 🛠 I'm currently working at [ASSIST Software][assist_software] as a *Frontend web developer*. 
 
 <!--
