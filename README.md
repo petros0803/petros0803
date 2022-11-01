@@ -38,6 +38,8 @@
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg">][linkedin]
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg">][linkedin]
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/yarn/yarn-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bitbucket.svg">][linkedin]
+[<img width="48" height="48" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">][linkedin]
 
 </div>
 
