@@ -57,7 +57,7 @@
 
 </div>
 
-### Stats
+### My stats 🌟
 
 ![GitHub followers](https://img.shields.io/github/followers/petros0803?label=Followers&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=petros0803)
@@ -71,6 +71,12 @@
 
 </div>
 
+<div>
+
+In the end I want to thank you for reading my profile. I'll let you go with a quote from Star Wars that I really enjoy
+***“Try not. Do or do not. There is no try.” — Yoda***
+
+</div>
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
