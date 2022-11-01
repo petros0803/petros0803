@@ -1,10 +1,5 @@
-<div>
-    <div> 
-        <h1 style="text-decoration: none"> Hello There 👋</h1>
-        <h2> I'm <b>Bogdan Petrosceac</b> a frontend developer.</h2>
-    </div>
-</div>
-
+###Hello There 👋
+##I'm Bogdan Petrosceac a frontend developer.
 
 <!--
 **petros0803/petros0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
