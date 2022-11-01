@@ -36,6 +36,16 @@
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">][linkedin]
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg">][linkedin]
 [<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg">][linkedin]
+[<img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/yarn/yarn-original.svg">][linkedin]
+
+</div>
+
+<div align="center">
+
+### Have knowledge of:
+
+[<img width="48" height="48" src="HERE">][linkedin]
 [<img width="48" height="48" src="HERE">][linkedin]
 [<img width="48" height="48" src="HERE">][linkedin]
 
