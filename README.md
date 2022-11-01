@@ -57,6 +57,11 @@
 
 </div>
 
+### Stats
+
+![GitHub followers](https://img.shields.io/github/followers/petros0803?label=Followers&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=petros0803)
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=petros0803&theme=onedark&margin-w=5&margin-h=5&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3)](https://github.com/ryo-ma/github-profile-trophy)
