@@ -1,6 +1,6 @@
 # Hello There, I'm Bogdan Petrosceac 👋
 ### Let me introduce myself
-⟹ 🛠 I'm currently working at [ASSIST Software][assist_software] as a *Frontend web developer* working mainly with **React** and **NextJs**.
+⟹ 🛠 I'm currently working as a *Frontend web developer* working mainly with **React** and **NextJs**.
 
 ⟹ 🚀 I'm becoming better and better as days go by by accumulating new information in my field of activity.
 
